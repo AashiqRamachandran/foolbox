@@ -8,4 +8,4 @@ coveralls>=1.10.0
 mypy>=0.761
 pre-commit>=1.21.0
 responses==0.10.9
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
